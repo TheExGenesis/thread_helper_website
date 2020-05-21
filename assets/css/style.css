@@ -1,0 +1,9 @@
+@import "{{ site.theme }}";
+
+body {
+    background-color: #c3d8ec;
+}
+#text{
+    width: 100%;
+    text-align: center;
+}
