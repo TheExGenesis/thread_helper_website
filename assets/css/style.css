@@ -1,9 +1,14 @@
 @import "{{ site.theme }}";
 
 body {
-    background-color: #c3d8ec;
+    background-color: #94c6f5;
 }
-#text{
-    width: 100%;
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-}
+    min-height: 100vh;
+  }
