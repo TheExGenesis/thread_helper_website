@@ -3,6 +3,15 @@
 body {
     background-color: #3366cc;
 }
+
+.main{
+    height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
 .logo {
     width: 50vw;
 }
@@ -13,7 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    min-height: 100vh;
+    /* min-height: 100; */
     color: #ffffff;
     font-family: "Open Sans"
 
@@ -25,9 +34,11 @@ body {
     width:100%;
     }
 
-
+.link-footer{
+    float: left;
+}
 a{
-    color:#cccccc;
+    color:#ffffff;
 }
 
 .subtitle{
