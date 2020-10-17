@@ -2,6 +2,8 @@
 
 body {
     background-color: #3366cc;
+    color:white;
+    font-family: "Open Sans";
 }
 
 .main{
@@ -37,9 +39,8 @@ body {
 .link-footer{
     float: left;
 }
-a{
-    color:#ffffff;
-}
+p{color:white;}
+a{color:white;}
 
 .subtitle{
     background-color: #3366cc; 
