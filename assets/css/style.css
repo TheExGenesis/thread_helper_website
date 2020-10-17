@@ -1,7 +1,10 @@
 @import "{{ site.theme }}";
 
 body {
-    background-color: #94c6f5;
+    background-color: #3366cc;
+}
+.logo {
+    width: 50vw;
 }
 
 .text {
@@ -11,4 +14,25 @@ body {
     align-items: center;
     text-align: center;
     min-height: 100vh;
-  }
+    color: #ffffff;
+    font-family: "Open Sans"
+
+}
+#mc_embed_signup{
+    clear:left; 
+    font-family: "Open Sans"; 
+    font-size: 20;
+    width:100%;
+    }
+
+
+a{
+    color:#cccccc;
+}
+
+.subtitle{
+    background-color: #3366cc; 
+    color:white; 
+    font-family:Montserrat, sans-serif; 
+    font-weight:100
+}
