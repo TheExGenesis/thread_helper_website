@@ -15,7 +15,8 @@ body {
     text-align: center;
 }
 .logo {
-    width: 50vw;
+    width: 40vw;
+    margin-top: 5vh;
 }
 
 .text {
