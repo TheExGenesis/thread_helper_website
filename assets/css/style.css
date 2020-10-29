@@ -45,7 +45,18 @@ a{color:white;}
 
 .subtitle{
     background-color: #3366cc; 
+    color:rgba(255, 255, 255, .8); 
+    font-family:Montserrat, sans-serif; 
+    font-weight:100;
+    font-size: 16;
+    font-style: italic;
+}
+.out-links{
+    margin-top: 40px;
+    background-color: #3366cc; 
     color:white; 
     font-family:Montserrat, sans-serif; 
-    font-weight:100
+    font-size: 20;
+    font-weight:600;
+
 }
